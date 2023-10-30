@@ -1,0 +1,10 @@
+"use strict";
+const a = 100;
+const b = 200;
+console.log(a + b);
+let g = 12;
+let h = "12";
+let d = 5;
+console.log(g + d + h);
+console.log(g % d);
+console.log(d);
